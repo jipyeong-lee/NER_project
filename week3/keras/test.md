@@ -1,1 +1,0 @@
-dataset : naver challenge dataset
